@@ -1,6 +1,5 @@
-#
-include < EEPROM.h >
-  int addr = 0;
+#include < EEPROM.h >
+int addr = 0;
 int address = 0;
 byte value; // unknown!
 int theState; // variable to store button state
